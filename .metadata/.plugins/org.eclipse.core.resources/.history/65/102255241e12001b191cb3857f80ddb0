@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="/facebook/gethandler" method="get">
+enter username <input type="text" name="username"><br>
+enter address <input type="text" name= "address"><br>
+<input type="submit" name="submit" value="submit"><br>
+</form>
+
+</body>
+</html>
